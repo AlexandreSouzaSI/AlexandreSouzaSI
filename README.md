@@ -26,6 +26,4 @@
 <div> 
   <a href="https://www.linkedin.com/in/alexandre-moura-s/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/AlexandreSouzaSI/AlexandreSouzaSI/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
